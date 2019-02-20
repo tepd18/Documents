@@ -1,0 +1,30 @@
+﻿Date 2019/01/22 18:02:53
+
+
+[PC-informasjon]
+Modellnavn               	Satellite C660D
+Delenummer               	PSC1YE-00H00QN5
+Serienummer              	8B052888K
+Operativsystemversjon    	Microsoft Windows 10 Pro N  10.0.17763
+BIOS-versjon             	1.50
+Prosessor                	AMD E-350 Processor
+Fysisk minne             	4096MB RAM
+Harddiskkapasitet        	319,652,093,952 [Byte]  297.699 [GB]
+Ledig harddiskkapasitet  	289,284,235,264 [Byte]  269.417 [GB]
+Video                    	AMD Radeon HD 6310 Graphics  Versjon=15.201.1151.0
+Skjermoppløsning         	1366 x 768 Piksler
+Fargekvalitet            	True Color (32 biter)
+Lyd                      	High Definition Audio-enhet  Versjon=10.0.17763.1
+Network (Nettverk)       	Realtek PCIe FE Family Controller  Versjon=9.1.407.2015  MAC-adresse=B8:70:F4:C6:7D:B5
+                         	Realtek RTL8188CE Wireless LAN 802.11n PCI-E NIC  Versjon=2013.12.331.2016  MAC-adresse=7C:4F:B5:F5:CD:13
+Modem                    	Ingen
+Internet Explorer        	11.253.17763.0
+IDE-enhet                	TOSHIBA MK3275GSX
+                         	TSSTcorp CDDVDW TS-L633F  Fastvareversjon=TF01
+
+
+[QFE-informasjon]
+Windows Update           KB4470502
+Windows Security Update  KB4470788
+Windows Security Update  KB4480979
+Windows Security Update  KB4480116
